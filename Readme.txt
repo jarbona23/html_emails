@@ -1,0 +1,1 @@
+This git repo is to keep track of my html emails
